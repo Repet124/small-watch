@@ -1,0 +1,23 @@
+{
+  "name": "small-watch",
+  "version": "0.1.0",
+  "description": "Webpack plugin for watchig files, based on \"fs.fileWatch\"",
+  "main": "small-watch.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Repet124/small-watch.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Repet124/small-watch/issues"
+  },
+  "homepage": "https://github.com/Repet124/small-watch#readme",
+  "dependencies": {
+    "glob": "^7.2.0"
+  }
+}
